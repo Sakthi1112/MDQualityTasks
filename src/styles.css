@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+.App {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(226 232 240);
+  background-image: url("https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-zoom-virtual-background-_Tcjok-d9b4.jpg");
+}
